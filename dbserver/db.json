@@ -1,0 +1,206 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "runtime": "130 min",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "Joseph Kosinski",
+      "actors": [
+        "Tom Cruise",
+        "Miles Teller",
+        "Monica Barbaro",
+        "Jennifer Connelly"
+      ],
+      "rating": 8.4,
+      "posterImageUrl": "images/1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Joker",
+      "year": 2019,
+      "runtime": "122 min",
+      "genre": [
+        "Thriller",
+        "Crime"
+      ],
+      "director": "Todd Phillips",
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz",
+        "Glenn Fleshler"
+      ],
+      "rating": 8.4,
+      "posterImageUrl": "images/2.jfif"
+    },
+    {
+      "id": "3",
+      "title": "Bullet Train",
+      "year": 2022,
+      "runtime": "120 min",
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "director": "David Leitch",
+      "actors": [
+        "Brad Pitt",
+        "Joey King",
+        "Bad Bunny",
+        "Sandra Bullock"
+      ],
+      "rating": 7.3,
+      "posterImageUrl": "images/3.jfif"
+    },
+    {
+      "id": "4",
+      "title": "The Gray Man",
+      "year": 2022,
+      "runtime": "122 min",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Anthony Russo, Joe Russo"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Chris Evans",
+        "Dhanush",
+        "Julia Butters"
+      ],
+      "rating": 6.5,
+      "posterImageUrl": "images/4.jfif"
+    },
+    {
+      "id": "5",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "runtime": "116 min",
+      "genre": [
+        "Action",
+        "Family"
+      ],
+      "director": [
+        " Peter Ramsey, Bob Persichetti, Rodney Rothman"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Chris Evans",
+        "Dhanush",
+        "Julia Butters"
+      ],
+      "rating": 8.3,
+      "posterImageUrl": "images/5.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Black Panther",
+      "year": 2018,
+      "runtime": "135 min",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "Ryan Coogler",
+      "actors": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Letitia Wright",
+        "Winston Duke"
+      ],
+      "rating": 7.3,
+      "posterImageUrl": "images/6.jfif"
+    },
+    {
+      "id": "7",
+      "title": "Thor: Ragnarok",
+      "Year": 2017,
+      "runtime": "130 min",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "director": "Taika Waititi",
+      "actors": [
+        "Cate Blanchett",
+        "Chris Hemsworth",
+        "Jeff Goldblum",
+        "Tessa Thompson"
+      ],
+      "rating": 7.9,
+      "posterImageUrl": "images/7.jfif"
+    },
+    {
+      "id": "8",
+      "title": "Iron Man 3",
+      "year": 2013,
+      "runtime": "130 min",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "director": "Shane Black",
+      "actors": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Don Cheadle",
+        "Rebecca Hall"
+      ],
+      "rating": 7.1,
+      "posterImageUrl": "images/8.jfif"
+    },
+    {
+      "id": "9",
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "runtime": "162 min",
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Anne Hathaway",
+        "Michael Caine",
+        "Marion Cotillard"
+      ],
+      "rating": 8.4,
+      "posterImageUrl": "images/9.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "runtime": "127",
+      "genre": [
+        "Action",
+        "Sci-fi"
+      ],
+      "director": "Andy Serkis",
+      "actors": [
+        "Tom Hardy",
+        "Tom Holland",
+        "Woody Harrelson",
+        "Michelle Williams"
+      ],
+      "rating": 5.9,
+      "posterImageUrl": "images/10.jfif"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    }
+  ]
+}
